@@ -1,0 +1,11 @@
+sale_id,date,region,product,amount
+1,2026-07-01,North,Laptop,55000
+2,2026-07-01,South,Mouse,800
+3,2026-07-01,East,Keyboard,1500
+4,2026-07-01,West,Monitor,12000
+5,2026-07-01,North,Headset,2500
+6,2026-07-01,South,Laptop,62000
+7,2026-07-01,East,Monitor,11000
+8,2026-07-01,West,Keyboard,1800
+9,2026-07-01,North,Mouse,900
+10,2026-07-01,South,Headset,3000
